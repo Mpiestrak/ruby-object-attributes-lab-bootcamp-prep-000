@@ -12,6 +12,6 @@ class Dog
   end
 
   def breed
-  @Breed
+  @breed
   end
 end
